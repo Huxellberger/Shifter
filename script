@@ -1,0 +1,6 @@
+git add *.rpy
+git add Shifter/game/python-packages/*
+git add Design/*
+git add Shifter/project.json
+git add Shifter/README.html
+git status
