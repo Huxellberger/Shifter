@@ -24,7 +24,7 @@ We used the Ren'py engine as it would be very difficult to create an engine from
 
 ## Terms And Conditions
 
-You are free to download and play this game as you see fit, but do be mindful that it was created by two mental fellows in roughly a day. It's rather rough around the edges. You may not take any code written by Jake Huxell or Samuel Hodgkinson and claim it as your own. The assets are dirty modifications of google image results and only placeholders, thus we do not recommend toying with them in your own commercial endeavors.
+You are free to download and play this game as you see fit, but do be mindful that it was created by two mental fellows in roughly a day. It's rather rough around the edges. You may not take any code written by Jake Huxell or Samuel Hodgkinson and claim it as your own. The assets are dirty modifications of google image results and only placeholders, thus we do not recommend toying with them in your own commercial endeavors. Special thanks to the Clockwork API and lxml, as we used their free APIs to make this project possible. 
 
 *You do not have permission to host this project on your own site. This project may only be hosted in this repository and nowhere else.*
 
