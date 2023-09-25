@@ -3,7 +3,7 @@ Hack Manchester 2015 Project, Visual Novel Car Dating Sim In Python With Ren'py 
 
 ## Creators 
 
-The project was created by Jake Huxell and Samuel Hodgkinson Of The University Of Manchester in order to try and win many hacking based goodies. The Project Aims were:
+The Project Aims were:
 
 - To create an entertaining spoof on visual novels involving rental cars and sms updates.
 
@@ -21,13 +21,6 @@ We used the Ren'py engine as it would be very difficult to create an engine from
 - [Link To Assets, Development Purposes.](https://www.dropbox.com/s/04sk5ful77yflws/assets.tar?dl=0)
 
 - [Link To Incompetech, Source Of Most Of The Music.](http://incompetech.com/)
-
-## Terms And Conditions
-
-You are free to download and play this game as you see fit, but do be mindful that it was created by two mental fellows in roughly a day. It's rather rough around the edges. You may not take any code written by Jake Huxell or Samuel Hodgkinson and claim it as your own. The assets are dirty modifications of google image results and only placeholders, thus we do not recommend toying with them in your own commercial endeavors. Special thanks to the Clockwork API and lxml, as we used their free APIs to make this project possible. 
-
-*You do not have permission to host this project on your own site. This project may only be hosted in this repository and nowhere else.*
-
 
 
 
